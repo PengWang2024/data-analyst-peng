@@ -295,3 +295,6 @@ Timeline:
 Expected completion of the project: Week 3, Week 4, and Week 9.
 This Data Quality Control initiative aims to empower UCW to enhance its HR data integrity and reliability, resulting in improved decision-making, operational efficiency, and compliance with regulatory requirements.
 
+Course Completion Badge
+Share your course completion badge in your portfolio. You can claim it using a module named “Badges and completion certificates” in your AWS Academy CF course. 
+![image](https://github.com/user-attachments/assets/b418b35b-a347-41f5-b027-3536bd7090ae)
